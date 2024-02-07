@@ -1,1 +1,1 @@
-# Automation-Exercise-Project-1
+# Automation-Exercise-Project-One
